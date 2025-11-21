@@ -7,9 +7,9 @@ This repository contains two university assignments for the "Database Management
 Both assignments work on the IMDB dataset (PostgreSQL) and explore indexing, query optimization,  
 parallel execution, memory tuning, and table partitioning.
 
----
 
-## 📁 Assignment 1 – Indexing & Query Optimization
+
+##  Assignment 1 – Indexing & Query Optimization
 
 **Goal:**  
 Study the performance impact of different types of indexes on typical IMDB queries.
@@ -24,9 +24,9 @@ Study the performance impact of different types of indexes on typical IMDB queri
 All SQL scripts are inside the folder:  
 `/Assignment1`
 
----
 
-## 📁 Assignment 2 – Memory, Parallelism & Partitioning
+
+##  Assignment 2 – Memory, Parallelism & Partitioning
 
 **Goal:**  
 Evaluate how PostgreSQL performance changes when modifying system parameters and applying range partitioning.
@@ -41,7 +41,7 @@ Topics covered:
 All SQL scripts are inside the folder:  
 `/Assignment2`
 
----
+
 
 ##  Requirements
 
@@ -50,7 +50,7 @@ All SQL scripts are inside the folder:
 - IMDB dataset in CSV format  
 - Enough RAM for testing buffer/parallel settings
 
----
+
 
 ##  Notes
 
